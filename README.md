@@ -61,8 +61,9 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammed-shahid-a54747299
+- 💻 GitHub: https://github.com/shahidahmed77489
+- 📧 Email: ms6992902@gmail.com
 
 ---
 
